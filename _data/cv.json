@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "ETH Zurich",
+      "area": "PhD in Atmospheric and Climate Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "ETH Zurich",
+      "area": "MSc in Atmospheric and Climate Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Sun Yat-sen University",
+      "area": "B.S. in Atmospheric Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     }
